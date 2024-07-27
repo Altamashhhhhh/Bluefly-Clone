@@ -3,7 +3,7 @@ This is a sample application that demonstrates an E-commerce website BlueFly usi
 Users can select to display products in a single category. Users can click on add to cart so that the project is added to cart. 
 
 ## Deploy Link
-The E-commerce demo can be [viewed online here](https://blue-fly-rho.vercel.app/).
+The E-commerce demo can be [viewed online here](https://cheery-frangollo-9feff4.netlify.app/).
 
 ## Images
 Here are screenshots that show the E-commerce demo application in use.
