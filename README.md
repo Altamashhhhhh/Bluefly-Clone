@@ -56,4 +56,4 @@ Here are screenshots showcasing various pages of the Bluefly Clone application:
 
 Feel free to reach out if you have any questions or feedback!
 
-🔗 [GitHub Repository](https://github.com/Altamashhhhhh/Bluefly-CLone)
+🔗 [GitHub Repository](https://github.com/Altamashhhhhh)
