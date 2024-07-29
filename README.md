@@ -1,6 +1,10 @@
 # Bluefly Clone
 
 ## 🌟 Overview
+
+**Bluefly** is a premier online fashion retailer offering a wide selection of designer apparel, accessories, and home decor at discounted prices.
+
+
 The **Bluefly Clone** project is a front-end replica of the Bluefly e-commerce website, crafted to highlight advanced front-end development skills. It features interactive elements, a user-friendly shopping experience, and seamless navigation. Built with **HTML**, **CSS**, and **JavaScript**, this project demonstrates the ability to create visually appealing and functional web applications.
 
 ## 🚀 Live Demo
